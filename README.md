@@ -1,12 +1,3 @@
---Configurando--
-
-self.project_zip_url = 'https://github.com/OTCv8/otclientv8/archive/refs/heads/master.zip' #Link arquivo do Client .zip
-
-url = 'https://raw.githubusercontent.com/tonireinbold/Compilador-Python-to-EXE/main/version.txt'  # Controle de Versão
-
-self.title = 'NOME DO SEU OT AQUI'
-
-
 --Compilando--
 
 
