@@ -8,6 +8,8 @@ self.title = 'NOME DO SEU OT AQUI'
 
 
 --Compilando--
+
+
 Baixe o Python.
 Baixe o Pycharm.
 Instale as bibliotecas necessárias:
